@@ -1220,55 +1220,52 @@ html[xmlns] .flexslider .slides {
       vertical-align: middle;
       margin-left: 10px; }
 
-.cta-sidebar-container {
+.photo-cta {
   width: 100%;
-  border: 1px solid #cfcfcf;
-  border-radius: 0px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
-  margin-bottom: 20px;
-  margin-top: 20px;
-  overflow: hidden; }
-  .cta-sidebar-container .cta-img-container a img {
-    max-width: 100%;
-    width: 1000px; }
-  .cta-sidebar-container h5 {
-    padding-left: 10px; }
-  .cta-sidebar-container p {
-    font-size: 18px;
-    padding: 10px;
-    color: #555; }
+  line-height: 20px;
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  margin-bottom: 20px; }
 
-.ctacontainer {
-  margin: 0px auto 30px; }
+.photo-cta-container {
+  width: 70%;
+  margin-left: 15%; }
 
-.ctalink {
+.cta-button {
+  position: absolute;
+  bottom: 20px;
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  background: #e12024;
-  border: 1px solid #e12024;
-  border-radius: 0px;
-  padding: 10px 20px;
+  display: block;
+  color: #e12024;
+  background-color: #fff;
+  border: 2px solid #e12024;
   text-decoration: none;
-  font-size: 18px;
-  color: white;
-  -webkit-transition: all 0.15s ease-out 0s;
-  transition: all 0.15s ease-out 0s; }
-  .ctalink a {
-    text-align: center; }
-  .ctalink:hover {
-    background: #fff;
-    color: #e12024;
-    border: 1px solid #e12024; }
-  .ctalink:active {
-    box-shadow: 0 0 0 #e12024;
-    -webkit-transform: translateY(0rem);
-    transform: translateY(0rem); }
+  padding: 10px 20px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-left: auto;
+  margin-right: auto;
+  left: 100px;
+  right: 100px;
+  text-align: center; }
+  .cta-button a {
+    color: #e12024; }
+  .cta-button:hover {
+    border: 2px solid #fff;
+    color: #fff;
+    background-color: #e12024; }
+    .cta-button:hover a {
+      color: #fff; }
 
+@media (max-width: 1350px) {
+  .cta-button {
+    font-size: 16px;
+    padding: 8px;
+    left: 75px;
+    right: 75px; } }
 #welcome-box form {
   padding-left: 30px; }
 
@@ -2618,7 +2615,8 @@ form label {
   display: block; }
 form textarea {
   display: block;
-  padding: 0.5rem; }
+  padding: 0.5rem;
+  border-radius: 5px; }
 form select {
   border: 1px solid #e12024;
   padding: 0.5rem;
@@ -2626,25 +2624,38 @@ form select {
 
 .home-value {
   max-width: 50rem;
+  background-color: #e12024;
   margin: 0 auto; }
+  .home-value label {
+    color: #fff; }
   .home-value input, .home-value textarea, .home-value select {
     width: 100%;
     border: 1px solid #e12024; }
   .home-value fieldset {
-    padding: 1.5rem; }
+    padding: 1.5rem;
+    border-radius: 5px; }
   .home-value input[type="submit"] {
     font-size: inherit;
     padding: 1rem;
-    border: 3px solid #e12024; }
+    border: 3px solid #fff;
+    color: #e12024;
+    background-color: #fff; }
     .home-value input[type="submit"]:hover {
-      border: 3px solid #ed7a7c; }
+      border: 3px solid #ed7a7c;
+      background-color: #ed7a7c;
+      color: #fff; }
+
+.asterisk {
+  color: #fff; }
 
 .contact-form {
-  width: 75%;
-  margin-left: 13%; }
+  width: 100%;
+  margin-bottom: 0; }
   .contact-form input, .contact-form textarea {
     width: 100%;
-    border: 1px solid gray; }
+    border: 1px solid gray;
+    -webkit-transition: 0.3s;
+    transition: 0.3s; }
   .contact-form:focus {
     color: transparent; }
   .contact-form textarea {
@@ -2652,17 +2663,16 @@ form select {
   .contact-form input[type="submit"] {
     font-size: 1.5rem;
     padding: 1rem;
-    border: 3px solid #e12024; }
+    border: 3px solid #e12024;
+    border-radius: 5px; }
     .contact-form input[type="submit"]:hover {
       background: #fff;
       color: #e12024;
       border: 1px solid #e12024; }
-
-.contact {
-  font-size: 24px;
-  margin-bottom: 20px;
-  margin-left: 13%;
-  margin-top: 20px; }
+    .contact-form input[type="submit"]:active {
+      box-shadow: 0 0 0 #e12024;
+      -webkit-transform: translateY(0rem);
+      transform: translateY(0rem); }
 
 .newsletter {
   background: #e12024;
@@ -2820,7 +2830,10 @@ form select {
   margin-top: 1.5rem; }
 
 .recruiting-page {
-  Font-size: 18px; }
+  Font-size: 18px;
+  width: 65%;
+  margin: 0 auto;
+  color: #000; }
 
 .page-logo {
   width: 90%;
@@ -2833,3 +2846,74 @@ form select {
 .page-hero-img {
   background-position: center;
   background-size: cover; }
+
+.join-us {
+  font-weight: bold;
+  text-align: center;
+  width: 85%;
+  display: block;
+  margin: 0 auto; }
+
+.join-us-subtitle {
+  font-weight: 400;
+  text-align: center;
+  width: 75%;
+  display: block;
+  margin: 0 auto 2rem auto; }
+
+.mySlides img {
+  display: block;
+  margin: 0 auto;
+  width: 50%; }
+
+.slide-container {
+  color: #000;
+  padding: 3rem 0; }
+
+.slide-area {
+  display: block;
+  margin: 0 auto; }
+
+.slide-button {
+  background-color: #e12024;
+  color: #fff; }
+  .slide-button:hover {
+    background-color: #fff;
+    color: #e12024;
+    border: 1px solid #e12024; }
+  .slide-button:focus {
+    background-color: #fff;
+    color: #e12024;
+    border: 1px solid #e12024; }
+
+.slide-navigation {
+  text-align: center; }
+
+.slide-caption {
+  text-align: center;
+  padding: 10px;
+  font-style: italic;
+  font-size: 20px;
+  color: #000; }
+
+.qanda {
+  width: 80%;
+  margin-left: 5%; }
+
+.section-title {
+  color: #e12024;
+  font-weight: bold; }
+
+.author {
+  color: #e12024; }
+
+.indent {
+  margin-left: 4rem; }
+
+.whitespace {
+  margin-top: 3rem; }
+
+.inline-logo {
+  width: 20%;
+  margin: 0 auto;
+  display: block; }
