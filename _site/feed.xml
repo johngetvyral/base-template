@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Albany, OR Real Estate Careers and Training Video Blog with Jason Cadwell</title>
-    <description>A Video Blog about Albany, OR Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
+    <title>Cadwell Realty Group | Albany's Best Real Estate Training and Coaching Team</title>
+    <description>Jason Cadwell, a top Real Estate Agent in Albany, OR, shares his own internal agent training for free. His Real Estate Coaching, Tips and Advice will help you sell more homes in less time.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 11 Apr 2018 12:21:07 -0500</pubDate>
-    <lastBuildDate>Wed, 11 Apr 2018 12:21:07 -0500</lastBuildDate>
+    <pubDate>Fri, 20 Apr 2018 11:30:17 -0500</pubDate>
+    <lastBuildDate>Fri, 20 Apr 2018 11:30:17 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
   </channel>
