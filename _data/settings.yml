@@ -93,7 +93,7 @@ images:
   logo_width_number: 30
   hero_text: -- MARKET -- Real Estate Careers and Training Video Blog
   hero_background_hex: '#999'
-  hero_image_path: /img/background.jpg
+  hero_image_path: /img/background1.jpg
   post_cover: /img/cover.jpg
 site_colors:
   brand_color: '#e12024'
