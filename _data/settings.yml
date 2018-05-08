@@ -1,12 +1,11 @@
 audit_header: false
-title: Cadwell Realty Group | Albany's Best Real Estate Training and Coaching Team
-description: Jason Cadwell, a top Real Estate Agent in Albany, OR, shares his own internal agent training for free. His Real Estate Coaching, Tips and Advice will help you sell more homes in less time.
+title: Local Expert Realty | Albany's Best Real Estate Training and Coaching Team
+description: Kristy Moore, a top Real Estate Agent in the DC Metro Area, shares his own internal agent training for free. His Real Estate Coaching, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
     url: /join-our-team/
-  - title: Free Video
-    url: /free-video/
+
   # - title: Events
   #   url: /events/
 
@@ -15,21 +14,21 @@ emma:
   form:
 
 client:
-  name: Jason Cadwell
+  name: Kristy Moore
   title:
   license_number:
   about_markdown: |
-    Jason was born in Corvallis grew up in Sweet Home, and graduated from Sweet Home High School.  After attending Linn Benton Community College and Oregon State University, he worked for Hewlett Packard.  Jason found real estate to be his passion and was licensed in 2001.  He worked for The Prudential Real Estate Professionals, then Re/Max Integrity, and in June of 2013 he started his own company - Cadwell Realty Group.
-  market: Albany, OR
-  brand: Cadwell Realty Group
+    Local Expert Realty is a top producing real estate team in the metro DC area run by Broker and Founder, Kristy Moore. Prior to founding this innovative company she founded Moore Realty Services and grew it to a top producing real estate team in the metro DC area winning an award in 2015 for the Best Teams in America. Local Expert Realty’s philosophy is that ‘Performance Beats Promises’. Our statistics consistently outperform other agents in our marketplace. We get our sellers more money and our buyers better deals than any other team in the area. Our team of Realtors, marketing and lead specialists, contract administrators, and closing coordinators ensures every client receives top notch service every time. Call us today to find out how you can “Experience the Difference”.
+  market: DC Metro Area
+  brand: Local Expert Realty
   brokerage:
-  address: 226 NW Hickory St<br>Albany, OR 97321
-  phone: 541-619-4303
+  address: 705 Park Ave, Falls Church, VA 22046
+  phone: 571-337-2609
   phone_type:
   phone2:
   phone2_type:
-  email: Jason@CadwellRealtyGroup.com
-  url: http://www.ValleyOregonHomes.com
+  email: Hire@LocalExpertRealty.com
+  url: http://LocalExpertRealty.com
 
 CTAs:
   # first_CTA_text: Join Our Team
@@ -65,16 +64,13 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/JasonCadwellRealtyGroup
-  linkedin_url: https://www.zillow.com/profile/jason366/
+  facebook_url:
+  linkedin_url:
   gplus_url:
-  youtube_url: https://www.youtube.com/c/JasonCadwellCRG
+  youtube_url:
   twitter_url:
   instagram_url:
   pinterest_url:
-  # zillow_url: https://www.zillow.com/profile/jason366/
-  # trulia_url:
-  # yelp_url: https://www.yelp.com/biz/cadwell-realty-group-albany-2
   podcast_url:
 
 podcast:
@@ -90,14 +86,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 30
-  hero_text: -- MARKET -- Real Estate Careers and Training Video Blog
-  hero_background_hex: '#999'
+  logo_width_number: 60
+  hero_text: LXR Real Estate Coaching
+  hero_background_hex: '#f26532'
   hero_image_path: /img/background1.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#e12024'
-  theme_color: '#000'
+  brand_color: '#1c3f95'
+  theme_color: '#f26532'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'

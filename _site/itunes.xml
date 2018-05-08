@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
-    <title>Albany, OR Real Estate Careers and Training Podcast with Jason Cadwell</title>
+    <title>DC Metro Area Real Estate Careers and Training Podcast with Kristy Moore</title>
     <link>http://cadwellrealtygrouptraining.com</link>
     <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://cadwellrealtygrouptraining.com"/>
-    <description>A Podcast about Albany, OR Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
+    <description>A Podcast about DC Metro Area Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</description>
     <language>en</language>
-    <managingEditor>Jason Cadwell</managingEditor>
-    <lastBuildDate>2018-05-04 09:20:04 -0500</lastBuildDate>
-    <media:copyright>Jason Cadwell</media:copyright>
+    <managingEditor>Kristy Moore</managingEditor>
+    <lastBuildDate>2018-05-08 15:13:04 -0500</lastBuildDate>
+    <media:copyright>Kristy Moore</media:copyright>
     <media:thumbnail url="http://cadwellrealtygrouptraining.com/img/podcast.jpg"/>
-    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Albany, OR, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
+    <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in DC Metro Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email>Jason@CadwellRealtyGroup.com</itunes:email>
-      <itunes:name>Jason Cadwell</itunes:name>
+      <itunes:email>Hire@LocalExpertRealty.com</itunes:email>
+      <itunes:name>Kristy Moore</itunes:name>
     </itunes:owner>
-    <itunes:author>Jason Cadwell</itunes:author>
+    <itunes:author>Kristy Moore</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://cadwellrealtygrouptraining.com/img/podcast.jpg"/>
-    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Albany, OR, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+    <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in DC Metro Area, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Boost your Career with Veteran Real Estate Agent Jason Cadwell</itunes:subtitle>
-    <itunes:summary>A Podcast about Albany, OR Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</itunes:summary>
+    <itunes:summary>A Podcast about DC Metro Area Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</itunes:summary>
       <itunes:category text="Education"/>
     
-    <copyright>Jason Cadwell</copyright>
-    <media:credit role="author">Jason Cadwell</media:credit>
+    <copyright>Kristy Moore</copyright>
+    <media:credit role="author">Kristy Moore</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">A Podcast about Albany, OR Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</media:description>
+    <media:description type="plain">A Podcast about DC Metro Area Real Estate; It's industry, and the people working in it. Whether you're just starting out, aspiring to begin, or been working in the field for a few years, tune in to get updates, tips, tricks and more!</media:description>
   </channel>
 </rss>

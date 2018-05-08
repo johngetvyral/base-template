@@ -5,67 +5,67 @@ permalink: /join-our-team/
 ---
 
 <div class="recruiting-page">
-<h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
-<h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
+<div class="whitespace"></div>
+<h1 class="join-us">METRO DC REAL ESTATE CAREER: APPLY NOW</h1>
+<h5 class="join-us-subtitle">Looking for a rewarding real estate career in Metro DC?  We're hiring in Northern VA, Washington, DC, and Maryland.  Work in a positive culture, get the leads, accountability, processes, and strategies to sell homes. Make a great living. Training provided. No experience necessary. Flexible hours. Sell your first home in 90 days GUARANTEED. Apply now.</h5>
 <div class="recruiting-photo">
 <span class="client-image-container">
 <img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
 </span>
-<figcaption class="caption">{{site.data.settings.client.name}}</figcaption>
+<figcaption class="caption">{{site.data.settings.client.name}}<br>Founder & Principal Broker</figcaption>
 </div>
 
-<p>Dear Fellow or Future Real Estate Agent,</p>
+<p>Dear Real Estate Sales Professional,</p>
 
-<p>We understand that you may be frustrated right now with your current brokerage or place of work. Perhaps you feel as if you aren’t receiving much, if any, support in building the wealth and success you deserve. <strong>You might lack the training, coaching, and mentoring to get you there.</strong></p>
+<p>Are you a hard working, solution seeking, persistent, positive, sales person who brings their best every day and wants to work around other hard working A+ players?</p>
 
-<p>Many new agents are overwhelmed with all the information in real estate school. <strong>There’s pressure to choose a broker immediately after getting your license and it’s hard to know whether you’ll be able to earn the income necessary.</strong> Maybe you’re afraid of not earning enough income or converting as many leads as you need to.</p>
+<p>Our fast growing company offers unlimited income potential and growth opportunities with less risk to driven individuals.</p>
 
-<p>If any of this sounds like you, you aren’t alone. <strong>In fact, 87% of real estate agents fail within their first two years in the business.</strong> They either run out of money or don’t have the support or structure needed to be successful in this business long term. An agent needs many things in order to be successful, including training, support, coaching with accountability, structure, and leads.</p>
+<p><strong>Most real estate agents are not bringing in enough money to pay the bills, have inconsistent income, and are not sure where their next paycheck is coming from.</strong>  In fact, the average income of a real estate agent is $47,700 a year and in 2014 NAR reported 87% of all new agents fail after five years in the industry and only 13% make it.</p>
 
-<p><strong>Going into real estate can feel either like the best or the worst career move you’ve ever made.</strong> So, how can you be sure that your real estate career won’t end in disaster? You join a quality brokerage—one with the right resources, training, and culture to help you grow as an agent.</p>
+<p>You can try to spend money on buying leads or paying for things you hope will work, attend trainings without accountability, or work with a company that does not offer high income potential.</p>
 
-<p>With the proper tools, your real estate career can go from barely surviving to absolutely thriving. We have those tools here at Cadwell Realty Group. Since 2013, when CRG was formed <strong>we’ve sold over $425 million worth of real estate and are consistently one of the top companies in the Willamette Valley.</strong> The biggest tool comes in the form of Jason Cadwell himself, who personally sells over 150+ homes per year.  Jason’s goal is to train our agents to follow in his footsteps.</p>
+<p>Rather than worrying about lack of money, having no prospects in the pipeline, inconsistency, going broke or quitting the business, we can show you a system that has helped dozens of agents reach six figures in annual income consistently.</p>
 
-<p>Whether you are a new agent, an experienced one, or are just thinking of entering the world of real estate, we can help you. <strong>If you have a strong work ethic and you’re looking to make a career in real estate and start earning income right away, here’s what we’ll provide for you:</strong>
-<ul class="indent">
-<li>Plug and Play Database Mailing System</li>
-<li>Mentoring</li>
-<li>Open House Opportunity (After proper training)</li>
-<li>Training for Buyer leads (Zillow, Realtor.com, Pay/click, etc.)</li>
-<li>Full-time Staff – Access to Transaction Coordinator/Agent Services</li>
-<li>Assigned Accountability Coach</li>
-<li>5 For Sale signs and lockboxes</li>
-<li>Access to Just listed/sold e-cards and/or postcards</li>
-<li>Up to 250 introductory announcement mailings to sphere</li>
-<li>Free desk space - private, semi-private, or group area based on production.</li>
-<li>Use of Multiple Office locations</li>
-<li>Free company training through CRG systems and processes as well as free team training, including mentoring & shadowing with top agents</li>
-<li>Plus, Discounts on national Ninja Selling Training Seminars – One of the top Coaching and Training Systems in the world</li>
+<p><strong>We offer direct mentorships with top producing agents in the top 1% of the industry, training on high level sales and real estate solutions, free quality leads, and one on one coaching. We guarantee to help you make $100k your first year in real estate and consistent and reliable income from there on.</strong> </p>
+
+<p>The benefits of working with us is that you can <strong>earn while you learn, work in a positive work environment, be a part of an award winning team, and have access to all the tools and skills needed to be successful.</strong> </p>
+
+<p>For example, John Barton came to us as a beverage sales executive who never earned more than $60K a year in the beer business and <strong>within his first year</strong> as an agent was able to generate close to <strong>$100k in commission.</strong> Jennifer was an <strong>experienced agent and made more money with more freedom in our system.</strong>  Lizzie started with us as a part time runner and <strong>sold her first house within the first 45 days of being a full time licensed agent.</strong></p>
+
+<p>We offer a <strong>base plus bonus</strong> to start for entry level sales positions, <strong>50/50 split</strong> for buyer agents, and up to <strong>80% split for experienced agents</strong> with the opportunity to earn more:
+<ul>
+<li>Unparalleled training</li>
+<li>A constant source of leads and clients</li>
+<li>Solid reputation in the community</li>
+<li>Two brokers available at all times for advice</li>
+<li>Your own personal website</li>
+<li>FREE business cards</li>
+<li>Phone time</li>
+<li>FREE Office space</li>
+<li>FREE E&O insurance</li>
 </ul></p>
 
-<p>By joining Cadwell Realty Group, you’ll be on the fast track to your OWN success.  We teach you how to <strong>EARN YOUR OWN WAY</strong>, by being self sufficient and keeping MORE COMMISSION. Our goal is to get you to 100% Commission quickly. <strong>Here are your alternatives:</strong></p>
+<p>After completing the information form you will be scheduled to speak with Kristy directly and invited personally to attend our Local Expert Realty Business Planning Session. Upon attendance you will be invited to a one on one session to outline your goals. Once all of those steps are complete and we ensure you are a good fit, you will then be enrolled in our Fast Track Training. <strong>We guarantee if you follow all the training and use the tools provided, you will make $100K in your first year as a full time real estate agent or we will pay you the difference!</strong></p>
 
-<p>You can work for a “Team” Broker but here is why I would advise against that:
-<ul class="indent">
-<li>You have ZERO control of your personal branding.</li>
-<li>You give away most of your commission</li>
-<li>You don’t own anything all marketing, Lead systems & Clients <strong>belong to THE TEAM NOT YOU</strong></li>
-</ul></p>
+<p>We are only accepting 3 applicants at this time and we already have leads and clients for you to work RIGHT NOW. <strong>Start earning commissions immediately.</strong></p>
 
-<p>You could also always try staying with your current brokerage and applying our concepts from scratch. But, why risk trying to replicate our success when you could simply join us?</p>
+<hr>
+<div class="qanda">
+<p class="section-title">FREQUENTLY ASKED QUESTIONS:</p>
 
-<p><strong>But, don’t just take my word for it.</strong> Consider the story of one of our Agents JN, who was working in the Construction industry and making $40,000 annually before joining us. In the first year JN hit 100% Commission status and in his second year with us he blew past that and make over $200,000 by following the same systems and using the same tools that we’re offering to you.</p>
+<p><strong>Do I have to work in the office?</strong></p>
 
-<p>You also may be interested in having a look at some of our most frequently asked questions like, “Why are your commission splits different from your competitors?” or “Will you provide me with leads?”</p>
+<p>When you are in training and mentoring, you need to be in the office to learn and you will also be out in the field meeting with clients and prospects.</p>
 
-<p>We can answer those questions for you and any other questions you may have about our Brokerage if you just give us a call or send us an email today. We look forward to hearing from you soon.</p>
+<p><strong>What incentives do I have to help the business grow?</strong></p>
 
-<p>Regards,</p>
+<p>Since we are a young, fast growing company there are always new positions and openings to help you grow into your best self. There are promotions as well as mentorship and recruiting incentives which gives you multiple ways to earn income.</p>
 
-<p><strong>Jason Cadwell</strong><br>
-Broker/Owner Cadwell Realty Group<br>
-<a href="tel:541-619-4303">541-619-4303</a><br>
-<a href="mailto:Jason@cadwellrealtygroup.com">Jason@cadwellrealtygroup.com</a></p>
+<p><strong>What will be covered in our training?</strong></p>
+
+<p>You will learn everything you need to know to be successful as well as an industry expert. You will learn how to conduct productive presentations, qualify prospects over the phone and in person, negotiate, navigate all the challenges that come up from selling real estate, solve problems creatively, and perform the highest level of service.</p>
+</div>
 
 <h2 class="recruiting">Request a Free Business Strategy Call</h2>
 
